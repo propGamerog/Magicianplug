@@ -1,0 +1,9 @@
+name: MagicianPlugin
+main: com.prop.magician.MagicianPlugin
+version: 1.0
+api-version: 1.20
+author: PropGamerOG
+commands:
+  magician:
+    description: Gives you magician powers like Doctor Strange
+    usage: /magician
